@@ -1,0 +1,8 @@
+{
+    "Gphoto":{
+        "mirrorX":true,
+        "mirrorY":false,
+        "streamingMethod": "both",
+        "rotate":0
+    }
+}

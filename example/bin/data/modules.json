@@ -1,0 +1,10 @@
+[
+	{
+		"type":"Gphoto",
+		"inputs":["Presenter"]
+	},
+	{
+		"type":"Presenter",
+		"inputs":["Gphoto"]
+	}
+]
