@@ -1,5 +1,4 @@
-#ifndef _ofxModuleCanon
-#define _ofxModuleCanon
+#pragma once
 
 #include "ofMain.h"
 #include "ModuleRunnable.h"
